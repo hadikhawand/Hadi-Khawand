@@ -29,6 +29,8 @@ h1{
 
 body{
    color: #40514e; 
+   position: relative;
+    left: 20px;
 }
 
 #About{
