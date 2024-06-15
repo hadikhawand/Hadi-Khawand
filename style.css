@@ -1,7 +1,6 @@
 
 #title{
     text-align: center;
-    display: block;
 }
 
 .programmer{
@@ -31,15 +30,12 @@ h1{
 body{
    color: #40514e;
     width: 100%;
-    display: flex;
-    justify-content: center;
     
 }
 
 #About{
     position: relative;
     bottom: 50px;
-    display: block;
 }
 
 .About-me{
@@ -80,15 +76,4 @@ body{
     font-size: 2rem;
     font-weight: 500;
 }
-#header{
-    display: block;
-}
-#skills{
-    display: block;
-}
-#Projects{
-    display: block;
-}
-#footer{
-    display: block;
-}
+
